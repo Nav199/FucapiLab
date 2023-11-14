@@ -7,7 +7,7 @@ Recursos Principais:
     
     Gerenciamento de Usuários: Implemente um sistema de perfis de usuário para diferenciar entre alunos, professores e administradores, personalizando as permissões de acesso de acordo com as necessidades de cada grupo.
 
-    Histórico de Reservas: Armazene um histórico completo das reservas realizadas, facilitando o acompanhamento e a gestão do uso dos laboratórios ao longo do tempo.
+    Histórico de Reservas: O software armazena um histórico completo das reservas realizadas, facilitando o acompanhamento e a gestão do uso dos laboratórios ao longo do tempo.
 
 Tecnologias Utilizadas:
 O FucapiLab foi desenvolvido no Android Studio utilizando a linguagem Java, garantindo uma base sólida e eficiente para a aplicação móvel.
